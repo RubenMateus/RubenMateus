@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
 * Flutter 📲
-* Gatbsy 🎯
+* Gatsby 🎯
 
 ### 📫 How to reach me
 * LinkedIn: https://www.linkedin.com/in/ruben-mateus/
