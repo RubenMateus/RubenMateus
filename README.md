@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, my name is Ruben Mateus & I'm a software Enginner! 🦖💻
 
-- 🔭 I’m currently working with
+### 🔭 I’m currently working with
 * .NET Core 🥋
 * Docker 🐳
 * React 🐐
