@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-mateus/)](https://www.linkedin.com/in/ruben-mateus/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ruben.mateus3@gmail.com)](mailto:ruben.mateus3@gmail.com)
 
-![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubenmateus&theme=cobalt&show_icons=true&count_private=true)
+![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubenmateus&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmateus&theme=cobalt&hide=java,html&count_private=true)](https://github.com/rubenmateus/github-readme-stats)
