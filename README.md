@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently learning
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🚀 The Focus ✈️
-* Make people's life easier throught software and make an impact in people's life.
+### ⚡ Want to learn
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
 ### 📫 How to reach me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rubenMateus)](https://github.com/rubenMateus)
