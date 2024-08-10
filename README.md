@@ -21,20 +21,18 @@ Here are some ideas to get you started:
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 ![DOCKER](https://img.shields.io/badge/DOCKER-DOCKER?logo=docker&style=for-the-badge&color=2496ED&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![JS](https://img.shields.io/badge/javascript-javascript?logo=javascript&style=for-the-badge&color=F7DF1E&logoColor=black)
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ![REACT](https://img.shields.io/badge/REACT-REACT?logo=react&style=for-the-badge&color=61DAFB&logoColor=white)
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 ![REDUX](https://img.shields.io/badge/REDUX-REDUX?logo=redux&style=for-the-badge&color=764ABC)
 
-![FLUTTER](https://img.shields.io/badge/FLUTTER-FLUTTER?logo=flutter&style=for-the-badge&color=02569B&logoColor=white)
-![DART](https://img.shields.io/badge/DART-FLUTTER?logo=dart&style=for-the-badge&color=0175C2&logoColor=white)
-
-
 ### 🌱 I’m currently learning
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/golang-007ACC.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### ⚡ Want to learn
